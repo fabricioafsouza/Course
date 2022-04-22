@@ -22,5 +22,4 @@ public class ProgramDate2 {
 		
 		System.out.println(sdf.format(d));
 	}
-
 }
